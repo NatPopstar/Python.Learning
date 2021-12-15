@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c74773f0-aa71-4d20-8ed0-eec498dc7082" name="Default Changelist" comment="" />
+    <list default="true" id="a808fc78-067d-41d8-9a8d-f60966967157" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/part_4_if_else/calc_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Stepik.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stepik.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/F.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/G.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/H.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/J.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/L.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/M.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_print/nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/nn.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +51,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1v2KcfcBv0CfUyQoN21UMFRKB3t" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22JtWmTbmVIz6BG1nil5tY4GkMA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,10 +64,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/part_4_if_else" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.C">
-    <configuration name="A (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/part_4_if_else" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.calc_task">
+    <configuration name="Calc_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stepik" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,34 +85,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Homework #1/Second_Week" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Homework #1/Second_Week/A.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Stepik" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/if_else" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_4_if_else" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if_else/A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_4_if_else/Calc_task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calc_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stepik" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,56 +107,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Homework #1/Second_Week" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Homework #1/Second_Week/B.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Stepik" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Homework #1/Second_Week" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Homework #1/Second_Week/C.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Stepik" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_4_if_else" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_4_if_else/calc_task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,47 +123,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.C" />
-        <item itemvalue="Python.B" />
-        <item itemvalue="Python.A (1)" />
-        <item itemvalue="Python.A" />
-        <item itemvalue="Python.nn" />
+        <item itemvalue="Python.calc_task" />
+        <item itemvalue="Python.Calc_task" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c74773f0-aa71-4d20-8ed0-eec498dc7082" name="Default Changelist" comment="" />
-      <created>1625754825160</created>
+      <changelist id="a808fc78-067d-41d8-9a8d-f60966967157" name="Changes" comment="" />
+      <created>1639567551276</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1625754825160</updated>
-      <workItem from="1625754826284" duration="194000" />
-      <workItem from="1625755041576" duration="5155000" />
+      <updated>1639567551276</updated>
+      <workItem from="1639567552920" duration="1160000" />
+      <workItem from="1639570064049" duration="293000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Stepik$A__1_.coverage" NAME="A (1) Coverage Results" MODIFIED="1625836375494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Homework #1/Second_Week" />
-    <SUITE FILE_PATH="coverage/Stepik$nn.coverage" NAME="nn Coverage Results" MODIFIED="1625755613500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Stepik$C.coverage" NAME="C Coverage Results" MODIFIED="1625836899454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Homework #1/Second_Week" />
-    <SUITE FILE_PATH="coverage/Stepik$A.coverage" NAME="A Coverage Results" MODIFIED="1625835480589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/if_else" />
-    <SUITE FILE_PATH="coverage/Stepik$B.coverage" NAME="B Coverage Results" MODIFIED="1625836504275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Homework #1/Second_Week" />
   </component>
 </project>
