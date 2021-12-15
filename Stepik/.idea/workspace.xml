@@ -5,36 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a808fc78-067d-41d8-9a8d-f60966967157" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/part_4_if_else/calc_task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Stepik.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stepik.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/H.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_4_if_else/I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/A.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/C.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/E.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/F.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/F.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/G.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/G.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/H.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/H.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/I.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/J.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/J.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/K.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/L.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/L.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/M.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/M.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_print/nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_2_print_input/nn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/E.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/F.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/G.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/H.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/I.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/J.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/K.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/First_Week/L.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/Second_Week/A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/Second_Week/B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/Second_Week/C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/Second_Week/D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/Second_Week/E.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/Second_Week/F.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework #1/Second_Week/G.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Stepik.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/E.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/F.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/G.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/H.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/I.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/J.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/K.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/L.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/M.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_2_print_input/nn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/A.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/B.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/C.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/E.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/F.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/G.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/H.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_4_if_else/I.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +79,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22JtWmTbmVIz6BG1nil5tY4GkMA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,7 +102,7 @@
       <recent name="$PROJECT_DIR$/part_4_if_else" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calc_task">
+  <component name="RunManager" selected="Python.Calculator">
     <configuration name="Calc_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Stepik" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +117,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_4_if_else/Calc_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Stepik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_4_if_else" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_4_if_else/Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,6 +171,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Calculator" />
         <item itemvalue="Python.calc_task" />
         <item itemvalue="Python.Calc_task" />
       </list>
@@ -138,6 +187,7 @@
       <updated>1639567551276</updated>
       <workItem from="1639567552920" duration="1160000" />
       <workItem from="1639570064049" duration="293000" />
+      <workItem from="1639570773192" duration="329000" />
     </task>
     <servers />
   </component>
